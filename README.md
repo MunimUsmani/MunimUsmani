@@ -19,20 +19,24 @@
 
 ## 💻 Technologies
 
+<p align="center">
 ### Frontend
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs" alt="Frontend Technologies" />
 </p>
 
+<p align="center">
 ### Styling & Data
-
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,materialui,graphql,firebase" alt="Styling & Data" />
 </p>
 
+<p align="center">
 ### Backend
-
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,prisma" alt="Backend Technologies" />
 </p>
